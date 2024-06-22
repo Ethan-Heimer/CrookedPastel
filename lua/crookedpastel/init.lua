@@ -53,4 +53,4 @@ theme.cursorColumn = {bg = "#001529"}
 theme.menuTextColor = {fg = colorOne}
 theme.titleColor = {fg = colorFour}
 
-crooked.AddTheme(theme)
+return theme
