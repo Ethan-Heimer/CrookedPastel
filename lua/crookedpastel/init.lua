@@ -52,4 +52,4 @@ theme.menuTextColor = {fg = colorOne}
 theme.titleColor = {fg = colorFour}
 theme.searchColor = {bg = colorFour, fg = colorSeven}
 
-return theme
+crooked.AddTheme(theme);
