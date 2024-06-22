@@ -1,3 +1,5 @@
+print("Crooked Pastel")
+
 local crooked = require("crookedtheme")
 
 local colorOne = "#FFF6F9"
