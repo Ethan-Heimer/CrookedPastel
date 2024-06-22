@@ -1,5 +1,3 @@
-print("Crooked Pastel")
-
 local crooked = require("crookedtheme")
 
 local colorOne = "#FFF6F9"
@@ -52,5 +50,6 @@ theme.menuColor = {fg=colorFive}
 theme.cursorColumn = {bg = "#001529"}
 theme.menuTextColor = {fg = colorOne}
 theme.titleColor = {fg = colorFour}
+theme.searchColor = {bg = colorFour, fg = colorSeven}
 
 return theme
