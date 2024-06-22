@@ -53,3 +53,5 @@ theme.titleColor = {fg = colorFour}
 theme.searchColor = {bg = colorFour, fg = colorSeven}
 
 crooked.AddTheme(theme);
+
+return theme;
