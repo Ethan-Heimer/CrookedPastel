@@ -1,9 +1,9 @@
 local pastel = require("crookedpastel.pastel");
 local pastelLight = require("crookedpastel.pastellight");
-local pastelnight = require("crookedpastel.pastelnight");
+local pastelNight = require("crookedpastel.pastelnight");
 
 return {
-    pastel,
-    pastelLight,
-    pastelnight
+    pastel = pastel,
+    pastelLight = pastelLight,
+    pastelNight = pastelNight
 }
