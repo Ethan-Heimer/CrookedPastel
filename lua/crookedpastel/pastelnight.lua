@@ -1,7 +1,7 @@
 local crooked = require("crookedtheme")
 
 local backgroundOne = "#000000"
-local backagroundTwo = "#111133"
+local backagroundTwo = "#020212"
 
 local colorOne = "#FFF6F9"
 local colorTwo = "#FFC8DD"
