@@ -30,7 +30,7 @@ theme.builtinFunctionColor = {bold = true, underline = true, italic = true}
 theme.attributeColor = {fg = colorFive}
 theme.conditionalColor = {fg = colorSix}
 theme.moduleColor = {fg = colorEight}
-theme.macroColor = {fg = colorNine, bold = true}
+theme.macroColor = {fg = colorSeven, bold = true}
 theme.typeColor = {fg = colorTen, italic = true, bold = true}
 theme.textColor = {fg = colorThree}
 theme.operatorColor = {fg = colorOne}
