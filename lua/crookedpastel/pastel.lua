@@ -49,7 +49,7 @@ theme.netrw.version = {fg = colorFour}
 theme.netrw.gray = {fg = colorOne}
 theme.netrw.date = {fg = colorTen}
 theme.netrw.time = {fg = colorSeven}
-theme.netrw.comment = {fg = colorFive}
+theme.netrw.comment = {fg = colorFour}
 theme.netrw.base = {fg = colorSeven}
 theme.netrw.change = {fg = colorThree}
 theme.netrw.cursorLine = {bg = backagroundTwo}
