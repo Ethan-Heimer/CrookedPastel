@@ -36,7 +36,7 @@ theme.editor.cursorColumn = {bg = backagroundTwo}
 theme.editor.indentLine = {fg = colorTen}
 theme.editor.indentScope = {fg = colorThree}
 theme.editor.error = {bg = colorFour, fg = "#000000"}
-theme.editor.warnign = {bg = colorSix, fg = "#000000"}
+theme.editor.warning = {bg = colorSix, fg = "#000000"}
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
 theme.stringColor = {fg = colorTwo, italic = true, underline = true}
