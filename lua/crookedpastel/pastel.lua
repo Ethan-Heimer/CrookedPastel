@@ -25,6 +25,7 @@ theme.method = {fg = colorThree, bold = true}
 theme.identifier = {fg = colorTwo}
 theme.statement = {fg = colorFive}
 theme.comment = {fg = colorFour, italic = true}
+theme.constant {fg = colorSeven, underline = true}
 
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
