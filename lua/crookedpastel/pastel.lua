@@ -18,6 +18,10 @@ local theme = crooked.NewTheme();
 
 theme.name = "Pastel"
 
+theme.number = {fg = colorSeven, underline = true}
+theme.string = {fg = colorTwo, italic = true, underline = true}
+
+--[[
 theme.keywordColor = {fg = colorTen, bold = true}
 theme.stringColor = {fg = colorTwo, italic = true, underline = true}
 theme.fieldColor = {fg = colorSix, bold = false}
@@ -54,5 +58,5 @@ theme.cursorColumn = {bg = backgroundOne}
 theme.menuTextColor = {fg = colorOne}
 theme.titleColor = {fg = colorFour}
 theme.searchColor = {bg = colorFour, fg = colorSeven}
-
+]]
 return theme;
