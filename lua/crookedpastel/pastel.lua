@@ -20,6 +20,7 @@ theme.name = "Pastel"
 
 theme.number = {fg = colorSeven, underline = true}
 theme.string = {fg = colorTwo, italic = true, underline = true}
+theme.type = {fg = colorSeven, bold = true}
 
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
