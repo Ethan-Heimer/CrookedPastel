@@ -18,16 +18,16 @@ local theme = crooked.NewTheme();
 
 theme.name = "Pastel"
 
-theme.number = {fg = colorSeven, underline = true}
-theme.string = {fg = colorTwo, italic = true, underline = true}
-theme.type = {fg = colorSeven, bold = true}
-theme.method = {fg = colorThree, bold = true}
-theme.identifier = {fg = colorTwo}
-theme.statement = {fg = colorFive}
-theme.comment = {fg = colorFour, italic = true}
-theme.constant = {fg = colorSeven, underline = true}
-theme.preproc = {fg = colorTwo, bold = true}
-theme.symbol = {fg = colorEight}
+theme.base.number = {fg = colorSeven, underline = true}
+theme.base.string = {fg = colorTwo, italic = true, underline = true}
+theme.base.type = {fg = colorSeven, bold = true}
+theme.base.method = {fg = colorThree, bold = true}
+theme.base.identifier = {fg = colorTwo}
+theme.base.statement = {fg = colorFive}
+theme.base.comment = {fg = colorFour, italic = true}
+theme.base.constant = {fg = colorSeven, underline = true}
+theme.base.preproc = {fg = colorTwo, bold = true}
+theme.base.symbol = {fg = colorEight}
 
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
