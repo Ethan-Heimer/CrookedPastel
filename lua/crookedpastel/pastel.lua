@@ -60,6 +60,7 @@ theme.keyword.builtinType = {fg = colorSeven, bold = true, italic = true}
 theme.keyword.builtinMethod = {fg = colorSeven, bold = true, italic = true}
 theme.keyword.loop = {fg = colorSeven, italic = true}
 theme.keyword.returning = {fg = colorFive, underline = true, italic = true, bold = true}
+theme.keyword.conditional = {fg = colorSix, bold = true}
 
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
