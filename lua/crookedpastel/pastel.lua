@@ -58,6 +58,7 @@ theme.netrw.cursorLine = {bg = backagroundTwo}
 theme.keyword.modifier = {fg = colorEight}
 theme.keyword.builtinType = {fg = colorSeven, bold = true, italic = true}
 theme.keyword.builtinMethod = {fg = colorSeven, bold = true, italic = true}
+theme.keyword.loop = {fg = colorSeven, italic = true}
 
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
