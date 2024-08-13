@@ -55,7 +55,7 @@ theme.netrw.base = {fg = colorSeven}
 theme.netrw.change = {fg = colorThree}
 theme.netrw.cursorLine = {bg = backagroundTwo}
 
-theme.keyword.method = {fg = colorEight}
+theme.keyword.modifier = {fg = colorEight}
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
 theme.stringColor = {fg = colorTwo, italic = true, underline = true}
