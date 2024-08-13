@@ -34,7 +34,7 @@ theme.editor.colorColumn = {bg = backagroundTwo}
 theme.editor.background = {bg = backgroundOne}
 theme.editor.cursorColumn = {bg = backagroundTwo}
 theme.editor.indentLine = {fg = colorTen}
-theme.editor.indentScope = {fg = colorSeven}
+theme.editor.indentScope = {fg = colorThree}
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
 theme.stringColor = {fg = colorTwo, italic = true, underline = true}
