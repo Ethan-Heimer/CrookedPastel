@@ -33,6 +33,7 @@ theme.editor.lineNumber = {fg = colorFive, bg = backagroundTwo, bold = true}
 theme.editor.colorColumn = {bg = backagroundTwo}
 theme.editor.background = {bg = backgroundOne}
 theme.editor.cursorColumn = {bg = backagroundTwo}
+theme.editor.indentLine = {bg = colorFour}
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
 theme.stringColor = {fg = colorTwo, italic = true, underline = true}
