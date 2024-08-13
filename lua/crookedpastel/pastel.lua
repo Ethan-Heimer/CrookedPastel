@@ -23,6 +23,7 @@ theme.string = {fg = colorTwo, italic = true, underline = true}
 theme.type = {fg = colorSeven, bold = true}
 theme.method = {fg = colorThree, bold = true}
 theme.identifier = {fg = colorTwo}
+theme.statement = {fg = colorFive}
 
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
