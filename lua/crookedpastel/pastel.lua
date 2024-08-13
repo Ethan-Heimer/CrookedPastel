@@ -40,7 +40,7 @@ theme.editor.warning = {fg = colorFive}
 theme.editor.menu = {bg = backagroundTwo}
 theme.editor.title = {fg = colorFive}
 theme.editor.search = {fg = colorFive}
-theme.editor.nontext = {fg = colorFive}
+theme.editor.nontext = {fg = colorFour}
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
 theme.stringColor = {fg = colorTwo, italic = true, underline = true}
