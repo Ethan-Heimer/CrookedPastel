@@ -27,6 +27,7 @@ theme.statement = {fg = colorFive}
 theme.comment = {fg = colorFour, italic = true}
 theme.constant = {fg = colorSeven, underline = true}
 theme.preproc = {fg = colorTwo, bold = true}
+theme.symbol = {fg = colorEight}
 
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
