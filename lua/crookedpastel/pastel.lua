@@ -59,7 +59,7 @@ theme.keyword.modifier = {fg = colorEight}
 theme.keyword.builtinType = {fg = colorSeven, bold = true, italic = true}
 theme.keyword.builtinMethod = {fg = colorSeven, bold = true, italic = true}
 theme.keyword.loop = {fg = colorSeven, italic = true}
-theme.keyword.returning = {fg = colorEight, underline = true, italit = true, bold = true}
+theme.keyword.returning = {fg = colorEight, underline = true, italic = true, bold = true}
 
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
