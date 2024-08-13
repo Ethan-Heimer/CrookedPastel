@@ -56,7 +56,7 @@ theme.netrw.change = {fg = colorThree}
 theme.netrw.cursorLine = {bg = backagroundTwo}
 
 theme.keyword.modifier = {fg = colorEight}
-theme.keyword.builtinType = {fg = colorFour, bold = true, underline = true}
+theme.keyword.builtinType = {fg = colorSix, bold = true}
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
 theme.stringColor = {fg = colorTwo, italic = true, underline = true}
