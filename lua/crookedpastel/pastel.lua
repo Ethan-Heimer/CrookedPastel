@@ -29,6 +29,7 @@ theme.base.constant = {fg = colorSeven, underline = true}
 theme.base.preproc = {fg = colorTwo, bold = true}
 theme.base.symbol = {fg = colorEight}
 theme.base.boolean = {fg = colorFour, bold = true, underline = true}
+theme.base.keyword = {fg = colorSeven}
 
 theme.editor.lineNumber = {fg = colorFive, bg = backagroundTwo, bold = true}
 theme.editor.colorColumn = {bg = backagroundTwo}
