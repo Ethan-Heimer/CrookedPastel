@@ -65,6 +65,7 @@ theme.keyword.conditional = {fg = colorSix, bold = true}
 theme.keyword.macroConstant = {fg = colorSeven, underline = true}
 theme.keyword.import = {fg = colorSeven, italic = true}
 theme.keyword.define = {fg  = colorThree, italic = true}
+theme.keyword.builtinConstant = {fg = colorSeven, underline = true, bold = true}
 
 --[[
 theme.keywordColor = {fg = colorTen, bold = true}
