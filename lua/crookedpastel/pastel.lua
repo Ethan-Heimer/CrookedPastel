@@ -55,6 +55,8 @@ theme.netrw.comment = {fg = colorFour}
 theme.netrw.base = {fg = colorSeven}
 theme.netrw.change = {fg = colorThree}
 theme.netrw.cursorLine = {bg = backagroundTwo}
+theme.netrw.folder = {fg = colorSeven}
+theme.netrw.image = {fg = colorSix}
 
 theme.keyword.modifier = {fg = colorEight}
 theme.keyword.builtinType = {fg = colorSeven, bold = true, italic = true}
